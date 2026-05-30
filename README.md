@@ -6,7 +6,7 @@
 
 ## 🎯 Overview
 
-CampusForge AI is an AI-powered platform designed for engineering college students. It helps you find project ideas, manage team projects, organize assignments, track productivity, build your LinkedIn presence, and analyze your GitHub code - all powered by Google Gemini AI.
+CampusForge AI is an AI-powered platform designed for engineering college students. It helps you find project ideas, manage team projects, organize assignments, track productivity, build your LinkedIn[...]
 
 ---
 
@@ -249,6 +249,15 @@ git push origin feature/your-feature-name
 - Provide clear description of changes
 - Include screenshots if UI changes
 - Follow existing code style
+
+---
+
+## 👥 Contributors
+
+- **Gadugina Naveen**
+- **Abhijeet Sale** - [github.com/Abhicode873](https://github.com/Abhicode873)
+
+---
 
 ## ⭐ If you find this helpful, please star this repo!
 
