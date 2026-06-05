@@ -257,6 +257,7 @@ git push origin feature/your-feature-name
 - **Gadugina Naveen** - [github.com/NaveenGadugina](https://github.com/NaveenGadugina)
 - **Abhijeet Sale** - [github.com/Abhicode873](https://github.com/Abhicode873)
 - **Sai Siddarth** - [github.com/quantumcoderXX](https://github.com/quantumcoderXX)
+- **Tracer7R4C3R**-[github.com/Tracer7R4C3R](https://github.com/Tracer7R4C3R)
 
 ---
 
